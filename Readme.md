@@ -1,0 +1,2 @@
+### Information
+This is a revision docs on Javascript data structures. This docs are arranged in a concious manner to enable user gain knowledge and skill in solving algorithmic problem while learning.
